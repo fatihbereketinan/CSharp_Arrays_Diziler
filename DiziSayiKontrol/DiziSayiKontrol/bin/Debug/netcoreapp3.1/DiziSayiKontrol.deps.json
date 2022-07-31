@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DiziSayiKontrol/1.0.0": {
+        "runtime": {
+          "DiziSayiKontrol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiziSayiKontrol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

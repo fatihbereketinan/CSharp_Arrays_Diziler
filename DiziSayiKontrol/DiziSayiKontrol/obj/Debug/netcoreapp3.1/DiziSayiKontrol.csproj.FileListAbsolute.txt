@@ -1,0 +1,13 @@
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\obj\Debug\netcoreapp3.1\DiziSayiKontrol.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\obj\Debug\netcoreapp3.1\DiziSayiKontrol.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\obj\Debug\netcoreapp3.1\DiziSayiKontrol.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\obj\Debug\netcoreapp3.1\DiziSayiKontrol.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\bin\Debug\netcoreapp3.1\DiziSayiKontrol.exe
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\bin\Debug\netcoreapp3.1\DiziSayiKontrol.deps.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\bin\Debug\netcoreapp3.1\DiziSayiKontrol.runtimeconfig.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\bin\Debug\netcoreapp3.1\DiziSayiKontrol.runtimeconfig.dev.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\bin\Debug\netcoreapp3.1\DiziSayiKontrol.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\bin\Debug\netcoreapp3.1\DiziSayiKontrol.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\obj\Debug\netcoreapp3.1\DiziSayiKontrol.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\obj\Debug\netcoreapp3.1\DiziSayiKontrol.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Paylaşılmayanlar\DiziSayiKontrol\DiziSayiKontrol\obj\Debug\netcoreapp3.1\DiziSayiKontrol.genruntimeconfig.cache
